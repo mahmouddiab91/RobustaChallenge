@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webdrivermanager">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/webdrivermanager-4.2.2.jar!/META-INF/maven/io.github.bonigarcia/webdrivermanager" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
